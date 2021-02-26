@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/funproject/static/css/main.72535b31.chunk.css",
+    "main.js": "/funproject/static/js/main.4c165fd1.chunk.js",
+    "main.js.map": "/funproject/static/js/main.4c165fd1.chunk.js.map",
+    "runtime-main.js": "/funproject/static/js/runtime-main.8a16b944.js",
+    "runtime-main.js.map": "/funproject/static/js/runtime-main.8a16b944.js.map",
+    "static/css/2.150d169a.chunk.css": "/funproject/static/css/2.150d169a.chunk.css",
+    "static/js/2.f38f7047.chunk.js": "/funproject/static/js/2.f38f7047.chunk.js",
+    "static/js/2.f38f7047.chunk.js.map": "/funproject/static/js/2.f38f7047.chunk.js.map",
+    "static/js/3.3e622887.chunk.js": "/funproject/static/js/3.3e622887.chunk.js",
+    "static/js/3.3e622887.chunk.js.map": "/funproject/static/js/3.3e622887.chunk.js.map",
+    "index.html": "/funproject/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/funproject/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.72535b31.chunk.css.map": "/funproject/static/css/main.72535b31.chunk.css.map",
+    "static/js/2.f38f7047.chunk.js.LICENSE.txt": "/funproject/static/js/2.f38f7047.chunk.js.LICENSE.txt",
+    "static/media/Crewinkognito.057e0260.png": "/funproject/static/media/Crewinkognito.057e0260.png",
+    "static/media/logo.6ce24c58.svg": "/funproject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a16b944.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.f38f7047.chunk.js",
+    "static/css/main.72535b31.chunk.css",
+    "static/js/main.4c165fd1.chunk.js"
+  ]
+}
