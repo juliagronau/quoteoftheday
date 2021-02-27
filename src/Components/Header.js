@@ -14,6 +14,10 @@ const Header = () => {
                     <Col md="8">
                         <Image src={Crewinkognito} alt="Crew inkognito" fluid/>
                     </Col>
+                    <Col md="4" pd-1>
+                        <h1>Hello Crewmember!</h1><br></br>
+                        <h2>Hier gibt's dein Zitat und deinen Witz des Tages</h2>
+                    </Col>
                 </Row>
             </Container>
         </header>

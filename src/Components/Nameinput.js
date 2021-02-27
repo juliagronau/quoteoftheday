@@ -7,10 +7,12 @@ import Randomadvice from './Randomadvice';
 const Nameinput = () => {
 
     const [name, setName] = useState('Crewmember');
+    const [namePut, setNamePut] = useState(false);
 
     function onSubmit(event) {
         event.preventDefault();
         setName(document.querySelector(".input-field").value);
+        setNamePut(true);
         console.log(name);
     }
 
@@ -23,7 +25,7 @@ const Nameinput = () => {
                         <button type="submit">Zeig mir mein Zitat des Tages!</button>
                     </Form>
             </Row>
-            <Randomadvice name={name}/>
+            {namePut === true && <Randomadvice name={name} />}
         </div>
     )
 }
